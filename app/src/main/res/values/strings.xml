@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="app_name1">Trivia</string>
+    <string name="app_name2">Trivia Stats</string>
+    <string name="welcome_to_trivia_app">Welcome to Trivia App</string>
+    <string name="exit">Exit</string>
+    <string name="start_trivia">Start Trivia</string>
+    <string name="loading_trivia">Loading Trivia</string>
+    <string name="time_left">Time Left : x milli seconds</string>
+    <string name="button">Button</string>
+    <string name="qstn_text">qstn comes here</string>
+    <string name="prev">prev</string>
+    <string name="next">next</string>
+    <string name="finish">finish</string>
+    <string name="correct_answers">Correct answers</string>
+    <string name="your_performance">Your performance:</string>
+    <string name="finish1">Finish</string>
+
+</resources>
